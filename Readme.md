@@ -82,7 +82,7 @@ This API is created using puppeteer. You can also use this with serverless funti
 - Clone the Repo
 
 ```
-$ git clone https://github.com/bijankundu/inshorts-news-api
+$ git clone https://github.com/bijankundu/inshort-api.git
 
 $ cd Inshorts-news-api
 ```
