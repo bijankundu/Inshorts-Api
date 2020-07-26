@@ -12,10 +12,12 @@
   ],
   "author": "Bijan Kundu",
   "license": "ISC",
+  "engines": {
+    "node": "12.18.0"
+  },
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.17.1",
-    "puppeteer": "^5.2.1",
-    "x-ray": "^2.3.4"
+    "puppeteer": "^5.2.1"
   }
 }
