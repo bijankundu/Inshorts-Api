@@ -1,8 +1,8 @@
-# 📰 Inshorts News API [UNOFFICIAL]
+# Inshorts News API [UNOFFICIAL] 📰
 
 ---
 
-#### This is an Unofficial API for inshorts news platform. You can fetch news from multiple different sources as gathered by the inshorts platform.
+#### Inshorts is an app which provides news from different sources and presents them under 60 words. This is an Unofficial API for Inshorts. You can fetch news from multiple different sources as gathered by the inshorts platform. This API Scraps content from the Inshorts website and provides it in easy to use JSON Format.
 
 ---
 
@@ -82,7 +82,7 @@ This API is created using puppeteer. You can also use this with serverless funti
 - Clone the Repo
 
 ```
-$ git clone https://github.com/bijankundu/inshort-api.git
+$ git clone https://github.com/bijankundu/Inshorts-Api.git
 
 $ cd Inshorts-news-api
 ```
