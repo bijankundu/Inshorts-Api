@@ -96,7 +96,7 @@ npm install
 - Run the API
 
 ```
-npm node index.js
+node index.js
 ```
 
 > **NOTE:** The data is being scapped from official website of Inshorts, so the response time of API might be slow.
