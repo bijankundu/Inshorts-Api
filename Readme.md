@@ -99,6 +99,6 @@ npm install
 node index.js
 ```
 
-> **NOTE:** The data is being scapped from official website of Inshorts, so the response time of API might be slow.
+> **NOTE:** The data is scraped from the official website of Inshorts, so the response time of API might be slow. The content is copyrighted and isn't recommended for commercial use.
 
 ---
