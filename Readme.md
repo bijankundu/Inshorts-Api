@@ -99,6 +99,8 @@ npm install
 node index.js
 ```
 
-> **NOTE:** The data is scraped from the official website of Inshorts, so the response time of API might be slow. The content is copyrighted and isn't recommended for commercial use.
+> **NOTE:** The data is scraped from the official website of Inshorts, so the response time of API might be slow. 
+
+> 🚨🚨🚨  **DISCLAIMER:** The API is for education purpose only. The content is copyrighted by the orginal author/company and isn't recommended for commercial use.
 
 ---
