@@ -1,4 +1,4 @@
-# Inshorts News API [UNOFFICIAL] 📰
+# Inshorts News Content Scraper 📰
 
 ---
 
