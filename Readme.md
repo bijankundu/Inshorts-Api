@@ -2,7 +2,7 @@
 
 ---
 
-#### Inshorts is an app which provides news from different sources and presents them under 60 words. This is an Unofficial API for Inshorts. You can fetch news from multiple different sources as gathered by the inshorts platform. This API Scraps content from the Inshorts website and provides it in easy to use JSON Format.
+#### Inshorts is an app which provides news from different sources and presents them under 60 words. This is an application which scapers the content from the inshort's website and then serves it via differnet endpoints. You can fetch news from multiple different sources as gathered by the inshorts platform.
 
 ---
 
