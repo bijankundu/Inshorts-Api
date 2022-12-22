@@ -100,6 +100,7 @@ node index.js
 ```
 
 > **NOTE:** The data is scraped from the official website of Inshorts, so the response time of endpoints might be slow. 
+> The endpoint is deprecated, will update with new endpoint soon
 
 > 🚨🚨🚨  **DISCLAIMER:** The application is for education purpose only. The content is copyrighted by the orginal author/company and isn't recommended for commercial use.
 
